@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=Tanguyrhd)
-
 # 👋 Hi, I'm Tanguy
 
 Data Scientist with a strong analytics background and a previous experience in mechanical engineering.
